@@ -1,11 +1,4 @@
 # eccernoch01.github.io
-<<<<<<< HEAD
-<!--
-1. Elijah Cernoch, eccernoch@my.waketech.edu
-2. This is my school Github account.
-3. This repository is used for assignments in CTI 110, Spring 2025.
->
-=======
 <!---
 1. Elijah Cernoch, e-mail: eccernoch@my.waketech.edu
 2. This is the Github account I will be using in my education at Wake Tech.
