@@ -1,6 +1,13 @@
-# eccernoch01.github.io
+# **Elijah Cernoch**
 
-1. Elijah Cernoch, e-mail: eccernoch@my.waketech.edu
-2. This is the Github account I will be using in my education at Wake Tech.
-3. This repository will hold my assignments and other related files for CTI 110, Intro to Web and DB programming.
+## About Me
+I am currently studying business analytics at Wake Tech, and  
+hope to earn my Associate's Degree in the next couple of years.  
+I enjoy spending time outdoors with my family and dog. I also  
+enjoy watching hockey and football.
 
+### My Favorite Outdoor Activities
+ * Hiking
+ * Running
+ * Fishing
+ * Camping
